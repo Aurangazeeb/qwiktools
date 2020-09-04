@@ -7,3 +7,4 @@ install: skip
 
 script:
  - python error_percent.py
+ - python pyramid.py

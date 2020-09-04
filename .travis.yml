@@ -1,3 +1,8 @@
 language: python
 python:
- - 3.7
+ - "3.7"
+
+#no need for "install:" as this project can depend on built-in packages
+
+script:
+ - error_percent.py

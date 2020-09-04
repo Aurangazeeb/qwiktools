@@ -3,5 +3,3 @@ python:
  - "3.7"
 script:
  - error_percent.py
-
-#no need for "install:" as this project can depend on built-in packages

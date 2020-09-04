@@ -1,7 +1,9 @@
 language: python
 python:
  - "3.7"
+
+#install dependencies
+install: skip
+
 script:
  - python error_percent.py
-
-#no need of install: key

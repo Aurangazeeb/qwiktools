@@ -1,4 +1,4 @@
 # qwiktools
 A set of short code snippets that would make machine learning a less repetitive task
 
-(https://img.shields.io/travis/Aurangazeeb/qwiktools?color=light-green)
+[![Build Status](https://travis-ci.com/Aurangazeeb/qwiktools.svg?branch=master)](https://travis-ci.com/Aurangazeeb/qwiktools)
